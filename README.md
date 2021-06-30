@@ -11,5 +11,5 @@ This file needs four lines:
 aws_account_number\
 role_to_assume\
 hcqis_AD@qnet.qualnet.org\
-hcqis AD password\
+hcqis AD password
 
